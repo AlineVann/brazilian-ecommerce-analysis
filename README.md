@@ -42,5 +42,8 @@ COMO RODAR O PROJETO
 2. Abra o notebook no Google Colab
 3. Execute as células para visualizar os dados
 
+Autor
 
-
+ALINE bARROS 
+LinkedIn:https://www.linkedin.com/in/aline-barros-ela-dela-b609651ba/
+Email: vanessa.olinservice@hotmail.com
